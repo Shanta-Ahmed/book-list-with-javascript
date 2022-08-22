@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    background: #fae7e7;
+}
+
+.success,
+.error {
+    color: #fff;
+    padding: 5px;
+    margin: 5px 0 10px 0;
+}
+
+.success {
+    background: #00b300;
+}
+
+.error {
+    background: #ff0000;
+}
